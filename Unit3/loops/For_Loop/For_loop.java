@@ -1,4 +1,4 @@
-package loops;
+package loops.For_Loop;
 
 public class For_loop {
     public static void main(String[] args) {
@@ -8,3 +8,8 @@ public class For_loop {
         }
     }
 }
+
+
+
+
+
